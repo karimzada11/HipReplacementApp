@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726137765923",
+    "project_id": "hipreplaceapp",
+    "storage_bucket": "hipreplaceapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726137765923:android:cf25c0bd2e75a232433196",
+        "android_client_info": {
+          "package_name": "com.example.hipreplacementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6adtbF7HkfMkf4rDp_jOW5Gl8yviy97E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

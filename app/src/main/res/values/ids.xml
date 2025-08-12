@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="repText" type="id" />
+    <item name="angleText" type="id" />
+    <item name="debugText" type="id" />
+    <item name="resetButton" type="id" />
+</resources>
